@@ -1,4 +1,4 @@
-@Grab(group='org.apache.httpcomponents', module='httpclient', version='4.3.6')
+@Grab('org.apache.httpcomponents:httpclient:4.3.6')
 import org.apache.http.impl.client.HttpClients
 import org.apache.http.client.methods.HttpGet
 
